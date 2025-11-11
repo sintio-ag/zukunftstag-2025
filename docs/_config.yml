@@ -1,3 +1,17 @@
-title: Zukunftstag – Sintio AG
-description: Scratch Katze & Maus
+title: Zukunftstag 2025 bei Sintio AG
+description: Kinder lernen bei Sintio, wie Software funktioniert – von der E-Auto-Ladestation bis zum eigenen Scratch-Spiel.
 markdown: GFM
+
+# Base site configuration
+url: "https://sintio-ag.github.io"       # main domain
+baseurl: "/zukunftstag-2025"             # repository name
+
+# Enable the SEO plugin (officially supported by GitHub Pages)
+plugins:
+  - jekyll-seo-tag
+
+# Open Graph / Twitter preview image (relative to /docs)
+image: "/assets/img/og-image.jpg"
+
+# Disable default download buttons (if any)
+show_downloads: false

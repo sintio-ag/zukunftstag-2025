@@ -1,3 +1,9 @@
+---
+title: Zukunftstag – Sintio AG
+---
+
+{% seo %}
+
 # Zukunftstag bei Sintio AG
 
 Willkommen zum Zukunfstag bei **Sintio**!
