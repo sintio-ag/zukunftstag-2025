@@ -1,0 +1,40 @@
+$header-bg-color: #193260;
+$header-bg-color-secondary: #def34f;
+
+/* Import the Cayman theme first */
+@import "jekyll-theme-cayman";
+
+
+/* Logo (SVG/PNG) optional */
+.page-header::before{
+  content:"";
+  display:block;
+  background:url("/zukunftstag-2025/assets/img/sintio.svg") no-repeat center/contain;
+  height:72px; margin-bottom:12px;
+}
+
+/* Hide the default GitHub button in the header */
+.page-header .btn {
+  display: none;
+}
+
+/* Improve readability and font size */
+body {
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+/* Slightly larger headings */
+.main-content h1 {
+  font-size: 2.0rem;
+}
+.main-content h2 {
+  font-size: 1.5rem;
+}
+
+/* Center the content and limit width for better readability */
+.main-content {
+  max-width: 44rem;
+  margin-left: auto;
+  margin-right: auto;
+}
