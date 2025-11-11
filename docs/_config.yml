@@ -11,7 +11,4 @@ plugins:
   - jekyll-seo-tag
 
 # Open Graph / Twitter preview image (relative to /docs)
-image: "/assets/img/og-image.jpg"
-
-# Disable default download buttons (if any)
-show_downloads: false
+image: "/assets/img/og-image.png"
