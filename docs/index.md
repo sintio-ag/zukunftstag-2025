@@ -1,6 +1,5 @@
 ---
 title: Zukunftstag 2025
-image: /assets/img/og-image.png
 ---
 
 ![Sintio Zukunftstag](./assets/img/og-image.png)
