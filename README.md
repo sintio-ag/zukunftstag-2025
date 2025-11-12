@@ -74,8 +74,6 @@ Mit Scratch kannst du direkt im Browser dein eigenes Spiel bauen.  Dazu ziehst d
    3. Zauberwald  
    4. Das grosse Tierquiz  
 
-![App Camps Scratch Screenshot](./src/img/app-camps-scratch-screenshot.png)
-
 ## 🔗 Nützliche Links
 
 - 🌐 **Unsere Website:** [https://sintio-ag.github.io/zukunftstag-2025/](https://sintio-ag.github.io/zukunftstag-2025/)  
