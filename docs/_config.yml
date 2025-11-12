@@ -1,11 +1,3 @@
 title: Zukunftstag 2025 bei Sintio AG
 description: Kinder lernen bei Sintio, wie Software funktioniert – von der E-Auto-Ladestation bis zum eigenen Scratch-Spiel.
 markdown: GFM
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-og-image
-
-og_image:
-  output_dir: "/assets/og"
-  image: "/assets/img/og-image.png"
