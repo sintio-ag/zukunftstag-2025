@@ -4,6 +4,7 @@ markdown: GFM
 
 url: "https://sintio-ag.github.io"
 baseurl: "/zukunftstag-2025"
+logo: "/assets/img/og-image.png" 
 
 twitter:
   card: summary_large_image
