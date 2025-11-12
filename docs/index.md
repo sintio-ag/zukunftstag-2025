@@ -1,8 +1,9 @@
 ---
-title: Zukunftstag – Sintio AG
+title: Zukunftstag 2025
+image: /assets/img/og-image.png
 ---
 
-# Zukunftstag bei Sintio AG
+![Sintio Zukunfstag](./assets/img/og-image.png)
 
 Willkommen zum Zukunfstag bei **Sintio**!
 
