@@ -50,3 +50,7 @@ Alle diese Berufe tragen dazu bei, dass E-Autos überall einfach und sicher gela
 ## Spiele (erscheinen am Donnerstag)
 
 Hier werden am **13. November 2025** die Spiele der Teilnehmenden veröffentlicht.
+
+### Katzenspiel von Philipp
+
+<iframe src="https://scratch.mit.edu/projects/1242039762/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
