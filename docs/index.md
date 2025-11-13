@@ -51,6 +51,25 @@ Alle diese Berufe tragen dazu bei, dass E-Autos überall einfach und sicher gela
 
 Hier werden am **13. November 2025** die Spiele der Teilnehmenden veröffentlicht.
 
+### Katzenspiel von Luca
+
+<div style="width:100%; max-width:980px;">
+  <iframe src="https://scratch.mit.edu/projects/1242060776/embed" width="100%" height="780"></iframe>
+</div>
+
+### Katzenspiel von Julien
+
+<div style="width:100%; max-width:980px;">
+  <iframe src="https://scratch.mit.edu/projects/1242060796/embed" width="100%" height="780"></iframe>
+</div>
+
+
+### Katzenspiel von Ela
+
+<div style="width:100%; max-width:980px;">
+  <iframe src="https://scratch.mit.edu/projects/1242061613/embed" width="100%" height="780"></iframe>
+</div>
+
 ### Katzenspiel von Philipp
 
 <div style="width:100%; max-width:980px;">
