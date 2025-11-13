@@ -54,5 +54,5 @@ Hier werden am **13. November 2025** die Spiele der Teilnehmenden veröffentlich
 ### Katzenspiel von Philipp
 
 <div style="width:100%; max-width:980px;">
-  <iframe src="https://scratch.mit.edu/projects/1242039762/embed" width="100%" height="720"></iframe>
+  <iframe src="https://scratch.mit.edu/projects/1242039762/embed" width="100%" height="740"></iframe>
 </div>
