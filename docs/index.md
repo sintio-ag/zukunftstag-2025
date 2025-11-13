@@ -47,9 +47,13 @@ Bei Sintio arbeiten Menschen mit ganz unterschiedlichen Aufgaben und Stärken zu
 
 Alle diese Berufe tragen dazu bei, dass E-Autos überall einfach und sicher geladen werden können.
 
-## Spiele (erscheinen am Donnerstag)
+## Spiele der Teilnehmenden
 
-Hier werden am **13. November 2025** die Spiele der Teilnehmenden veröffentlicht.
+Neben spannenden Einblicken in den **Arbeitsalltag** bei Sintio, von Softwareentwicklung über Support bis hin zu Marketing und Administration, haben die Kinder auch selbst programmiert.
+
+Jede Teilnehmerin und jeder Teilnehmer hat mit **Scratch** ein eigenes kleines Computerspiel entwickelt. Scratch ist eine **einfache und kindgerechte Entwicklungsumgebung**, ideal für Schülerinnen und Schüler **ab der 4. Klasse**. Mit farbigen Drag-and-Drop-Bausteinen konnten die Kinder ihr Spiel Schritt für Schritt gestalten.
+
+Hier präsentieren wir stolz die Spiele, die am **Zukunftstag 2025** entstanden sind.
 
 ### Katzenspiel von Luca
 
@@ -63,15 +67,8 @@ Hier werden am **13. November 2025** die Spiele der Teilnehmenden veröffentlich
   <iframe src="https://scratch.mit.edu/projects/1242060796/embed" width="100%" height="780"></iframe>
 </div>
 
-
 ### Katzenspiel von Ela
 
 <div style="width:100%; max-width:980px;">
   <iframe src="https://scratch.mit.edu/projects/1242061613/embed" width="100%" height="780"></iframe>
-</div>
-
-### Katzenspiel von Philipp
-
-<div style="width:100%; max-width:980px;">
-  <iframe src="https://scratch.mit.edu/projects/1242039762/embed" width="100%" height="780"></iframe>
 </div>
