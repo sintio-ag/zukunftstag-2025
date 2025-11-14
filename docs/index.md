@@ -47,6 +47,28 @@ Bei Sintio arbeiten Menschen mit ganz unterschiedlichen Aufgaben und Stärken zu
 
 Alle diese Berufe tragen dazu bei, dass E-Autos überall einfach und sicher geladen werden können.
 
+## Impressionen vom Zukunftstag
+
+Hier ein paar Eindrücke vom Zukunftstag bei Sintio. Die Kinder konnten nicht nur programmieren, sondern auch echte Ladestationen ausprobieren, unser Büro erkunden und erleben, wie Software im Alltag eingesetzt wird. Die Begeisterung war riesig – und wir freuen uns schon auf den nächsten Zukunftstag!
+
+![Einblick in die Arbeit der Entwickler:innen](./assets/img/zukunftstag_2025_01.jpg)
+*Die Kinder schauen unseren Entwickler:innen bei der Arbeit über die Schulter.*
+
+![Online Meeting](./assets/img/zukunftstag_2025_02.jpg)
+*Online-Meeting mit unseren Entwicklerkollegen im Ausland.*
+
+![Heisses Wasser für Tee](./assets/img/zukunftstag_2025_03.jpg)
+*Tee kochen mit einem Ladegerät – Elektrizität einmal anders erklärt.*
+
+![Noch mehr Tee](./assets/img/zukunftstag_2025_04.jpg)
+*Die Kinder entdecken spielerisch, wie Energie im Alltag genutzt wird.*
+
+![Die Kinder präsentieren ihre fertigen Spiele](./assets/img/zukunftstag_2025_05.jpg)
+*Stolze Präsentation der selbst programmierten Scratch-Spiele.*
+
+![Grosse Audienz](./assets/img/zukunftstag_2025_06.jpg)
+*Das gesamte Sintio-Team verfolgt die Präsentationen gespannt.*
+
 ## Spiele der Teilnehmenden
 
 Neben spannenden Einblicken in den **Arbeitsalltag** bei Sintio, von Softwareentwicklung über Support bis hin zu Marketing und Administration, haben die Kinder auch selbst programmiert.
