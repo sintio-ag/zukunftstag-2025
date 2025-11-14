@@ -49,7 +49,7 @@ Alle diese Berufe tragen dazu bei, dass E-Autos überall einfach und sicher gela
 
 ## Impressionen vom Zukunftstag
 
-Hier ein paar Eindrücke vom Zukunftstag bei Sintio. Die Kinder konnten nicht nur programmieren, sondern auch echte Ladestationen ausprobieren, unser Büro erkunden und erleben, wie Software im Alltag eingesetzt wird. Die Begeisterung war riesig – und wir freuen uns schon auf den nächsten Zukunftstag!
+Hier ein paar Eindrücke vom Zukunftstag bei Sintio. Die Kinder konnten nicht nur programmieren, sondern auch echte Ladestationen ausprobieren, unser Büro erkunden und erleben, wie Software im Alltag eingesetzt wird.
 
 ![Einblick in die Arbeit der Entwickler:innen](./assets/img/zukunftstag_2025_01.jpg)
 *Die Kinder schauen unseren Entwickler:innen bei der Arbeit über die Schulter.*
@@ -58,7 +58,7 @@ Hier ein paar Eindrücke vom Zukunftstag bei Sintio. Die Kinder konnten nicht nu
 *Online-Meeting mit unseren Entwicklerkollegen im Ausland.*
 
 ![Heisses Wasser für Tee](./assets/img/zukunftstag_2025_03.jpg)
-*Tee kochen mit einem Ladegerät – Elektrizität einmal anders erklärt.*
+*Tee kochen mit einer Ladestation – Elektrizität einmal anders erklärt.*
 
 ![Noch mehr Tee](./assets/img/zukunftstag_2025_04.jpg)
 *Die Kinder entdecken spielerisch, wie Energie im Alltag genutzt wird.*
